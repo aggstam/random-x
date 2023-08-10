@@ -5,7 +5,6 @@ Before execution, pull the submodules by executing:
 ```
 make bootstrap
 ```
-<br>
 Example (unsafe) usage is implemented as a unit test and can be executed using:
 ```
 make test
