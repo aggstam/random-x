@@ -1,6 +1,13 @@
 [package]
-name = "random-x"
+name = "{{project-name}}"
 version = "0.1.0"
+homepage = "https://github.com/tevador/RandomX/"
+authors = [
+    "{{authors}}",
+    "tevador <tevador@gmail.com>",
+    "The Monero Project",
+]
+license = "BSD-3-Clause"
 edition = "2021"
 
 [dependencies]
