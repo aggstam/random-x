@@ -4,6 +4,7 @@ version = "0.1.0"
 homepage = "https://github.com/tevador/RandomX/"
 authors = [
     "{{authors}}",
+    "aggstam",
     "tevador <tevador@gmail.com>",
     "The Monero Project",
 ]
@@ -13,5 +14,5 @@ edition = "2021"
 [dependencies]
 
 [build-dependencies]
-bindgen = "0.66.1"
-cmake = "0.1.50"
+bindgen = "0.72.1"
+cmake = "0.1.54"
